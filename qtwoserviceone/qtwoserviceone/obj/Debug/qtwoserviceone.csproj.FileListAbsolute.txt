@@ -1,0 +1,8 @@
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\bin\Debug\qtwoserviceone.exe.config
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\bin\Debug\qtwoserviceone.exe
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\bin\Debug\qtwoserviceone.pdb
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\obj\Debug\qtwoserviceone.csprojResolveAssemblyReference.cache
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\obj\Debug\qtwoserviceone.ProjectInstaller.resources
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\obj\Debug\qtwoserviceone.csproj.GenerateResource.Cache
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\obj\Debug\qtwoserviceone.exe
+c:\users\shahriyar\documents\visual studio 2013\Projects\qtwoserviceone\qtwoserviceone\obj\Debug\qtwoserviceone.pdb
